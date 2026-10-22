@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tipiapa
-- 👀 I’m interested in astrophotography, rowing, parenting and python
-- 🌱 I’m currently learning python, scrappers, ETL, timeseries forecasting
+- 👀 I’m interested in astrophotography, rowing, parenting and Hyperautomation
+- 🌱 I try to learn everyday. Hyperautomation archytecture is my current focus.
 - 💞️ I’m looking to collaborate with my wife
 - 📫 How to reach me tiago.sacchetti@gmail.com
 
